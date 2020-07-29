@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Oscar Reyes
+###### about
+<hr>
+Software Engineer at Blizzard Entertainment
+
+Has been playing StarCraft II since 2013 - Diamond
+
+When asked about anything in life, somehow everything revoles around food
+
+Lives in Austin Texas
+
+###### links
+<hr>
+
+ twitter: [@oscarryz](https://twitter.com/oscarryz)
+
+ StackOverflow: [OscarRyz](https://stackoverflow.com/users/20654/oscarryz)
+
+ Blog: [oscarryz.now.sh](oscarryz.now.sh)
