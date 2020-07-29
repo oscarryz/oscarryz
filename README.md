@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Oscar Reyes
 
-<hr>
 Software Engineer at Blizzard Entertainment
 
 Has been playing StarCraft II since 2013 - Diamond
