@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 # Oscar Reyes
 
 Software Engineer at Blizzard Entertainment
-
-Has been playing StarCraft II since 2013 - Diamond
-
-When asked about anything in life, somehow everything revoles around food
-
-Lives in Austin Texas
