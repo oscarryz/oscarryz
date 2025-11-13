@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 # Oscar Reyes
 
 Software Engineer at iO
+
+- 🔭 I’m currently working with VodafoneZiggo to help them modernize the e-commerce plaform. 
