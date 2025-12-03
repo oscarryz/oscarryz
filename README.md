@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Oscar Reyes
 
-Software Engineer at iO
+Software Engineer at [iO](https://www.iodigital.com/nl)
 
-- 🔭 I’m currently working with VodafoneZiggo to help them modernize the e-commerce plaform. 
+-  🎯 I focus on understanding the "whys" to provide the technical "hows", emphasizing team collaboration and active knowledge sharing.
+-  🔭 I’m currently working with [VodafoneZiggo](https://www.vodafoneziggo.nl/) to help them modernize the e-commerce plaform and brining to the cloud.
+- 🤓 As a hobby, I've been designing and implementing [Yz](https://github.com/oscarryz/yz-docs), a new programming language where concurrency, data, objects, functions, and classes can be represented through a single abstraction: a block of code. 
